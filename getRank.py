@@ -4,11 +4,6 @@ import requests
 studentAssoc=input()
 SESSION=input()
 __pstsid__=input()
-'''
-249208
-c24a323e-acf8-4c55-bad2-904877ef5c13
-3f632e12718fb0de7213cdcfe78d0c0f
-'''
 headers = {
     'Accept': 'application/json, text/javascript, */*; q=0.01',
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
